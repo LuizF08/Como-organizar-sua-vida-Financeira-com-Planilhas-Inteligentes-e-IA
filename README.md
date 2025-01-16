@@ -32,8 +32,8 @@ Documentação completa do projeto, explicando sua finalidade, estrutura e como 
 ### Como Usar
 
 1. **Baixe os Arquivos**:
-   - Planilha Fictícia
-   - Gráfico Financeiro
+   - Planilha Fictícia (controle_financeiro_com_grafico.xlsx)
+   - Gráfico Financeiro )controle_financeiro_com_grafico.xlsx)
 
 2. **Abra a Planilha**:
    - Utilize o Excel, Google Sheets ou qualquer software de edição de planilhas.
